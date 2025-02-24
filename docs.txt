@@ -1,0 +1,12 @@
+installation of typscript
+
+sudo npm install -g typescript
+tsc -v 
+
+
+for running xyz.ts file
+----> use node xyz.ts
+
+for creating javascript file corresponding to typescript file 
+-----> use tsc xyz.ts
+it will give you  a javascript file xyz.js 
