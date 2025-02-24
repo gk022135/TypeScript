@@ -40,3 +40,5 @@ function getHero(){
     return "thor"
 }
 hero = getHero();  // hero  infered by  Any keyword
+// Any is just a mark says hey just off the type cheking for this var
+
