@@ -10,3 +10,7 @@ for running xyz.ts file
 for creating javascript file corresponding to typescript file 
 -----> use tsc xyz.ts
 it will give you  a javascript file xyz.js 
+
+
+Type are Available in typescript
+number string boolean Null Undefined Void object Array tuble Any  Unknown  ....
