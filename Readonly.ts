@@ -12,9 +12,9 @@ let myUser: Userr = {
     name: "",
     email: "",
     isActive: true,
-    //yaha maine creditDetails nahi dala hai ye  optional hai by this sign ?
+    //yaha maine creditDetails nahi dala hai, ye optional hai by this sign ?
 }
-// myUser._id = "1234245" // you can't access because of readonly key word
+// myUser._id = "1234245" // you can access but not change it (or overwrite it) because of readonly key word
 
 function createUser (u: Userr){
 

@@ -4,8 +4,8 @@
 // all type in typescript are in lowercase
 //syntax
 
-// let variablename : type = valueofvariable;
 
+// let variablename : type = valueofvariable;
 let greetings: string = "Gaurav Kumar"
 
 // greetings = 6 gives error :- that is safty provided by typescript
